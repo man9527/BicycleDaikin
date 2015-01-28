@@ -1,0 +1,39 @@
+.full #grade5 {
+    -fx-background-color: red;
+}
+
+.full #grade4 {
+    -fx-background-color: yellow;
+}
+
+.full #grade3 {
+    -fx-background-color: yellowgreen;
+}
+
+.full #grade2 {
+    -fx-background-color: greenyellow;
+}
+
+.full #grade1 {
+    -fx-background-color: darkgrey;
+}
+
+.p4 #grade5 {
+    -fx-background-color: white;
+}
+
+.p4 #grade4 {
+    -fx-background-color: yellow;
+}
+
+.p4 #grade3 {
+    -fx-background-color: yellowgreen;
+}
+
+.p4 #grade2 {
+    -fx-background-color: greenyellow;
+}
+
+.p4 #grade1 {
+    -fx-background-color: darkgrey;
+}
